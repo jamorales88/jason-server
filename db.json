@@ -11,7 +11,23 @@
 		"embarque_tiempo_limite_tender" : null,
 		"embarque_motivo_rechazo_tender" : "",
 		"tipo_transporte_id" : 6,
-		"tipo_transporte_solicitado_id" : 0
+		"tipo_transporte_solicitado_id" : 0,
+		"proveedor_operador_id" : 0,
+		"proveedor_vehiculo_id" : 0,
+		"proveedor_remolque1_id" : 0,
+		"proveedor_remolque2_id" : 0,
+		"embarque_fecha_planeacion" : "2019-03-06T21:45:06.000Z",
+		"embarque_detalles" : "Op: Jovani Quijano \r\nTel: 5545984217",
+		"embarque_fecha_salida_planeada" : "2019-03-10T17:00:00.000Z",
+		"embarque_autorizacion" : "",
+		"embarque_marchamo" : "",
+		"embarque_envio_carta_instruccion" : null,
+		"embarque_tipo_servicio" : "Cliente Recoge",
+		"embarque_compra_transporte" : 24500.0,
+		"embarque_venta_transporte" : 0.0,
+		"embarque_compra_otros" : 0.0,
+		"embarque_venta_otros" : 0.0,
+		"embarque_checklist_finalizada" : 0
 	}
   ]
 }
