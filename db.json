@@ -64,44 +64,5 @@
 		"tarifario_proveedor_15" : 0,
 		"tarifario_costo_15" : 0.0
 	}
-  ],
-  "entrega": [
-{
-		"entrega_id" : 1207,
-		"erp_cliente_id" : 3,
-		"embarque_id" : 195,
-		"entrega_estatus_id" : 1,
-		"entrega_pedido" : "3400248700",
-		"entrega_orden_compra" : "65848194",
-		"entrega_cantidad" : 6.0,
-		"erp_producto_unidad_id" : "CAJA",
-		"entrega_peso" : 0.0,
-		"entrega_tarimas" : 0.04,
-		"entrega_origen" : 8,
-		"entrega_destino" : 58,
-		"entrega_fecha_pedido" : "2019-02-12T06:00:00.000Z",
-		"entrega_fecha_vigencia" : "2019-02-27T06:00:00.000Z",
-		"entrega_factura_numero" : "",
-		"entrega_factura_monto" : 0.0,
-		"entrega_layout_carga" : "",
-		"entrega_folio_carga" : "",
-		"entrega_folio_descarga" : "4975859",
-		"entrega_fecha_cita_carga" : "2019-02-14T02:00:00.000Z",
-		"entrega_fecha_cita_entrega" : "2019-02-18T18:30:00.000Z",
-		"entrega_detalles" : "",
-		"entrega_cantidad_faltante" : 0.0,
-		"entrega_monto_faltante" : 0.0,
-		"entrega_fecha_solicitud_cita" : null,
-		"entrega_fecha_confirmacion_cita" : null,
-		"entrega_evidencia_folio" : "258161",
-		"entrega_evidencia_fecha" : "2019-03-14T17:46:00.000Z",
-		"entrega_evidencia_estatus_id" : 4,
-		"entrega_evidencia_recepcion_electronica_fecha" : null,
-		"entrega_evidencia_recepcion_fisica_fecha" : null,
-		"entrega_evidencia_envio_acuse_fecha" : null,
-		"entrega_cantidad_rechazada" : 0.0,
-		"entrega_observaciones_evidencias" : "",
-		"entrega_nota_entrada" : ""
-	}
   ]
 }
